@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirecting...</title>
+    <meta http-equiv="refresh" content="0; url=https://aditiarya.netlify.app/" />
+    <link rel="canonical" href="https://aditiarya.netlify.app/" />
+    <script type="text/javascript">
+        window.location.href = "https://aditiarya.netlify.app/";
+    </script>
+</head>
+<body>
+    <p>If you are not redirected automatically, please <a href="https://aditiarya.netlify.app/">click here to go to aditiarya.netlify.app</a>.</p>
+</body>
+</html>
